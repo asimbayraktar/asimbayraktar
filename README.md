@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello!! My name is Asim Bayraktar. 
+For now I am developing e-commerce web application with .Net Microsoft technologies.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimbayraktar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
