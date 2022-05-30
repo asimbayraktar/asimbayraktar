@@ -1,4 +1,4 @@
-### Hi there 👋, Asım  Bayraktar
+### Hello there. Asım  Bayraktar
 #### Backend Engineer
 For now I am developing e-commerce web application with .Net Microsoft technologies.
 
