@@ -1,7 +1,5 @@
-### Hello there. Asım  Bayraktar
+### Hi there 👋, Asım  Bayraktar
 #### Backend Engineer
-For now I am developing e-commerce web application with .Net Microsoft technologies.
-
 
 Skills: .Net / C# / C++ / Node.js / JS / HTML / CSS / React
 
