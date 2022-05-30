@@ -1,5 +1,5 @@
 ### Hi there 👋, Asım  Bayraktar
-#### Backend Engineer
+#### Computer Engineer
 
 Skills: .Net / C# / C++ / Node.js / JS / HTML / CSS / React
 
