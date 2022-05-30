@@ -1,5 +1,18 @@
-### Hello!! My name is Asim Bayraktar. 
+### Hi there 👋, Asım  Bayraktar
+#### Backend Engineer
 For now I am developing e-commerce web application with .Net Microsoft technologies.
+
+
+Skills: .Net / C# / C++ / Node.js / JS / HTML / CSS / React
+
+- 🔭 I’m currently working on e-commerce web application 
+- 🌱 I’m currently learning .Net technologies 
+- ⚡ Fun fact: Charged and Ready!! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asimbayraktar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asim-bayraktar//)  
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimbayraktar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
